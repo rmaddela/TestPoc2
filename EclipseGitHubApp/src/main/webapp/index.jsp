@@ -1,6 +1,10 @@
 <html>
 <body>
-<h2>Modified JSP at 2:40 PM Today By Ramachandra Maddela</h2>
-<h2>Modified JSP again on 6/11/2015 at 10:42 AM</h2>
-</body>
+<center> REGISTRATION FORM 
+<form>  
+<input type="text" name="uname" value="Name..." onclick="this.value=''"/><br/>  
+<input type="text" name="uemail"  value="Email ID..." onclick="this.value=''"/><br/>  
+<input type="password" name="upass"  value="Password..." onclick="this.value=''"/><br/>  
+<input type="submit" value="register"/>  
+</form> </center>
 </html>
