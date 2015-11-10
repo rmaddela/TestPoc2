@@ -1,11 +1,20 @@
 <html>
 <body>
-<center style="background-color:#FF0000"><font size=12> REGISTRATION FORM </font>
-<form style="background-color:#FFFFFF">  
-<input type="text" name="uname" value="Name..." onclick="this.value=''"/><br/>  
-<input type="text" name="uemail"  value="Email ID..." onclick="this.value=''"/><br/>  
-<input type="password" name="upass"  value="Password..." onclick="this.value=''"/><br/>  
-<input type="submit" value="register"/>  
-</form> </center>
-<center style="background-color:#008000"><font size=12> REGISTRATION FORM END </font>
+    <h1>Form Demo</h1>
+    <form>
+       <fieldset>
+          <legend>Selecting City</legend>
+          <p>
+             <label>Select City</label>
+             <select id = "myCity">
+               <option value = "1"> Tirupathi </option>
+               <option value = "2"> Bangalore </option>
+               <option value = "3"> Chennai </option>
+               <option value = "4"> Hyderabad </option>
+             </select>
+          </p>
+       </fieldset>
+    </form>
+  </body>
 </html>
+
