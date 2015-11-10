@@ -5,7 +5,7 @@
        <fieldset>
           <legend>Selecting City</legend>
           <p>
-             <label>Select City</label>
+             <label>City</label>
              <select id = "myCity">
                <option value = "1"> Tirupathi </option>
                <option value = "2"> Bangalore </option>
