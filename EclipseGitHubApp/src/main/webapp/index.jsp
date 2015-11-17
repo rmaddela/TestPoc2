@@ -9,7 +9,7 @@
 					<option value="1">Tirupathi</option>
 					<option value="2">Bangalore</option>
 					<option value="3">Chennai</option>
-					<option value="4">Hyderabad</option>
+					<option value="4">Mysure</option>
 					<option value="5">SriKalahasti</option>
 				</select>
 				<button type="button">
